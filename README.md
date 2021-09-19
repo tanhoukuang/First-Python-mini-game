@@ -1,2 +1,2 @@
 # First-Python-mini-game
-My first coding game Tic Tac Toe
+My first coding mini game Tic Tac Toe
